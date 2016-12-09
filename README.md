@@ -4,7 +4,7 @@
 AutoHotKey language support for VS Code
 * Color Syntax
 * Comment blocks
-Markdown: ![iamge](\image\06266BE1B01E34.png)
+Markdown: ![iamge](https://raw.githubusercontent.com/kuronyan235/NyanFi/master/image/06266BE1B01E34.png)
 
 ## Installation
 
